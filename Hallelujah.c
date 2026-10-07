@@ -1,0 +1,1 @@
+#include <types.h>#include <resources.h>#include <sound.h>#define HallelujahID 11490#define nil 0L#define FALSE 0void main() {	Handle	mySndHndl = 0L;	OSErr	err = noErr;	ResType myResType = 'snd ';			mySndHndl = GetResource(myResType, HallelujahID);	if (!ResError())		err = SndPlay(nil, mySndHndl, FALSE);	ReleaseResource(mySndHndl);};
