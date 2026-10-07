@@ -1,0 +1,9 @@
+Hallelujah.aiff
+
+"Hallelujah" from George Frideric Handel's Messiah, HWV 56.
+Performed by the MIT Concert Choir, directed by William C. Cutter.
+Licensed under CC BY-SA 2.0: https://creativecommons.org/licenses/by-sa/2.0/
+Source: https://commons.wikimedia.org/wiki/File:Handel_-_messiah_-_44_hallelujah.ogg
+
+Changes: trimmed to a 2.1-second excerpt of the choir's first "Hallelujah",
+fades added, loudness adjusted, converted to 16-bit 44.1 kHz AIFF.
